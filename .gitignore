@@ -1,0 +1,24 @@
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+# Downloaded model weights
+models/
+*.gguf
+*.safetensors
+*.pt
+*.pth
+# Private data and credentials
+.env
+.env.*
+!.env.example
+review_queue.json
+*.log
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

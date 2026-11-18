@@ -1,0 +1,2 @@
+# Runtime: install in a Python 3.11 virtual environment
+llama-cpp-python>=0.2.90,<1
