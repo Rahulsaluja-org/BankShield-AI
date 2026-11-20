@@ -115,3 +115,17 @@ For a demonstration, record three **synthetic** examples: a safe banking-securit
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## BankShield AI Demonstration
+
+### 1. Safe Banking Assistance
+![Safe AI Response](screenshots/01-safe-response.png)
+
+### 2. Credential Theft Prevention
+![Blocked Unsafe Request](screenshots/02-unsafe-request-blocked.png)
+
+### 3. Human-in-the-Loop Security Review
+![Human Review Workflow](screenshots/03-human-review.png)
+
+### 4. Automated Security Tests
+![Automated Test Results](screenshots/04-automated-tests.png)
